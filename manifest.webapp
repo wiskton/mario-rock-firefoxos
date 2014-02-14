@@ -1,0 +1,33 @@
+{
+    "name": "Mario Rock",
+    "description": "Jogo de score, basta desviar da pedra para ir acumulando pontos.",
+    "version": "0.1",
+    "launch_path": "/index.html",
+    "developer": {
+        "name": "Willem Allan",
+        "url": "http://www.willemallan.com.br"
+    },
+    "default_locale": "pt-BR",
+    "locales": {
+        "en": {
+            "name": "Mario Rock",
+            "description": "Game score, just the stone to go deflect accumulating points."
+        },
+        "pt-BR": {
+            "name": "Mario Rock",
+            "description": "Jogo de score basta desviar da pedra."
+        },
+        "en-US": {
+            "name": "Mario Rock",
+            "description": "Game score, just the stone to go deflect accumulating points."
+        }
+    },
+    "icons": {
+        "32": "/static/images/icon32.png",
+        "60": "/static/images/icon60.png",
+        "90": "/static/images/icon90.png",
+        "120": "/static/images/icon120.png",
+        "128": "/static/images/icon128.png",
+        "256": "/static/images/icon256.png"
+    }
+}
